@@ -1,2 +1,3 @@
 Registration form dev in progress!
+Registration form dev completed!
 
