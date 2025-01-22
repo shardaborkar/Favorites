@@ -1,2 +1,2 @@
-Registration form development completed after code refactoring!
+Registration form development completed 
 
